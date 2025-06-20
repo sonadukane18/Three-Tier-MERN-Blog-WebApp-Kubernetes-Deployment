@@ -121,10 +121,6 @@ _I'd love for you to make the most of this project - it's all about learning, he
     ```
     This command will build the Docker images and start the containers for the backend and frontend, enabling you to access the Wanderlust application.
 
-## 🌟 Ready to Contribute?
-
-Kindly go through [CONTRIBUTING.md](https://github.com/krishnaacharyaa/wanderlust/blob/main/.github/CONTRIBUTING.md) to understand everything from setup to contributing guidelines.
-
 ## 💖 Show Your Support
 
 If you find this project interesting and inspiring, please consider showing your support by starring it on GitHub! Your star goes a long way in helping me reach more developers and encourages me to keep enhancing the project.
