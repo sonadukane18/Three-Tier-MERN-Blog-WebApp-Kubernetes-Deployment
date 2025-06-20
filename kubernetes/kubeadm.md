@@ -74,7 +74,7 @@ sudo systemctl start kubelet
 ```
 
 ### On Master node
-- <i> Create a shell script master-script.sh and paste the below code and run it </i>
+- <i> Create a another shellscript "master-script.sh" and paste the below code and run it </i>
 ```bash
 sudo kubeadm config images pull
 
