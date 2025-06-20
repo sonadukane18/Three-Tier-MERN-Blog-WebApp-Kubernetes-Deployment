@@ -19,7 +19,7 @@ sudo apt install docker.io -y
 sudo chmod 777 /var/run/docker.sock
 ```
 
-- <i> Create a shell script 1.sh and paste the below code and run it :
+- <i> Create a shell script "cluster.sh" and paste the below code and run it :
 ```bash
 #!/bin/bash
 # disable swap
@@ -74,7 +74,7 @@ sudo systemctl start kubelet
 ```
 
 ### On Master node
-- <i> Create a shell script 2.sh and paste the below code and run it </i>
+- <i> Create a shell script master-script.sh and paste the below code and run it </i>
 ```bash
 sudo kubeadm config images pull
 
