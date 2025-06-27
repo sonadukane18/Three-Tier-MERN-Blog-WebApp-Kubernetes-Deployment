@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: sonadukane18/wanderlust-backend-beta:v2.1.0
+          image: sonadukane18/wanderlust-backend/latest
           ports:
             - containerPort: 8080
 ---
